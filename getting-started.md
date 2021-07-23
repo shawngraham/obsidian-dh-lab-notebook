@@ -6,10 +6,12 @@ tags: introduction, help
 
 # What is this?
 
-This is a folder of individual text files using the markdown extension & conventions. When used in combination with the [obsidian.md](https://obsidian.md) interface which permits and encourages interlinkages of files, like a personal wiki, this folder becomes a knowledge base for your research and learning.
+This is a folder of individual text files using the markdown extension & conventions. When used in combination with the [obsidian.md](https://obsidian.md) interface which permits and encourages interlinkages of files, like a personal wiki, this folder becomes a knowledge base for your research and learning. It can become not just a _repository_ of what you've learned, but a _generator_ for new insights.
 
 A short video that shows the basics of Obsidian (not by SG):
 [https://www.youtube.com/watch?v=QgbLb6QCK88](https://www.youtube.com/watch?v=QgbLb6QCK88)
+
+A video showing just how powerful Obsidian can be for your notetaking can be found at [' How to turn your notes into published articles and books using the Obsidian app with Eleanor Konik'](https://www.youtube.com/watch?v=nO5N_x2so0g).
 
 # Basic use
 

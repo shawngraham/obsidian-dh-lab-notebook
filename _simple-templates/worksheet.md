@@ -8,6 +8,8 @@ tags: tag1, tag2, etc
 
 _description in own words; link to relevant tutorial or other materials_
 
++ link to the relevant github repo: like this: `[repo title](https://github.com/your-user-name/relevant-repo)`
+
 ## how it might connect to other research I'm doing
 
 _describe; cross link to other research as appropriate_
