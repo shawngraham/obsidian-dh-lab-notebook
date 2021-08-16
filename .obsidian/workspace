@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "submitting work.md",
-            "mode": "source"
+            "file": "getting-started.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "submitting work.md",
+                "file": "getting-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "submitting work.md",
+                "file": "getting-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "submitting work.md"
+                "file": "getting-started.md"
               }
             }
           },
@@ -121,12 +121,12 @@
   },
   "active": "61ac2f1bf33c1294",
   "lastOpenFiles": [
-    "submitting work.md",
     "getting-started.md",
-    "_simple-templates/worksheet.md",
-    "key dates hist5706f 2021.md",
     "Untitled.md",
     "_complex-templates/hypothesis.md",
+    "submitting work.md",
+    "_simple-templates/worksheet.md",
+    "key dates hist5706f 2021.md",
     "worksheet.md",
     "-getting-started.md"
   ]
